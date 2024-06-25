@@ -72,6 +72,8 @@ These steps ensured a structured and comprehensive dataset, ready for in-depth a
 
 ## Project Workflow
 
+![project workflow](https://github.com/Debbiefolorunsho/Computer-hardware-sales/blob/main/Project%20Workflow.png?raw=true)
+
 **1. Project Objective**
 The primary goal of this project is to create a dynamic and interactive Power BI dashboard that enables sales managers to monitor their team's quarterly performance effectively. The dashboard provides comprehensive insights into sales performance, market trends, and opportunity management, supporting strategic decision-making.
 
