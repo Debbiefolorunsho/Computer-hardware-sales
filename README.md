@@ -8,7 +8,7 @@ This project offers an in-depth analysis of sales in the computer software indus
 - **Insights Discovery:** Through data exploration and visualization techniques, insights were discovered on total revenue, sales agents' contributions, deal stages comparison, and quarterly revenue trends.
 - **Presentation:** The insights were presented using various visualizations including cards for key metrics, slicers for filtering data, column charts for top performers, area charts for trend analysis, and pie charts for deal stage comparison, providing a comprehensive view of sales performance.
 
-[Click on this to interact with my Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2E3OTY3N2ItY2NjMy00OTRmLWFiZjgtMGMyZDEzOTRhYjYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click on this to interact with my Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGEyMTE3MGMtZTVhYS00NjYzLTk1MGItZDFmZjRmMDNjN2E1IiwidCI6IjFkZDZlZmUxLTk4MDctNGM1Yy04NzJiLWJmZDExZDIyNGEzMSJ9)
 
 ## Overview of the data
 
